@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://chandan-cv.github.io/csb-um3vg/static/css/main.3de828b4.chunk.css",
+    "main.js": "https://chandan-cv.github.io/csb-um3vg/static/js/main.2780c402.chunk.js",
+    "main.js.map": "https://chandan-cv.github.io/csb-um3vg/static/js/main.2780c402.chunk.js.map",
+    "runtime-main.js": "https://chandan-cv.github.io/csb-um3vg/static/js/runtime-main.47ab2def.js",
+    "runtime-main.js.map": "https://chandan-cv.github.io/csb-um3vg/static/js/runtime-main.47ab2def.js.map",
+    "static/css/2.c1e28d34.chunk.css": "https://chandan-cv.github.io/csb-um3vg/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.fe92264b.chunk.js": "https://chandan-cv.github.io/csb-um3vg/static/js/2.fe92264b.chunk.js",
+    "static/js/2.fe92264b.chunk.js.map": "https://chandan-cv.github.io/csb-um3vg/static/js/2.fe92264b.chunk.js.map",
+    "static/js/3.b42b1418.chunk.js": "https://chandan-cv.github.io/csb-um3vg/static/js/3.b42b1418.chunk.js",
+    "static/js/3.b42b1418.chunk.js.map": "https://chandan-cv.github.io/csb-um3vg/static/js/3.b42b1418.chunk.js.map",
+    "index.html": "https://chandan-cv.github.io/csb-um3vg/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "https://chandan-cv.github.io/csb-um3vg/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.3de828b4.chunk.css.map": "https://chandan-cv.github.io/csb-um3vg/static/css/main.3de828b4.chunk.css.map",
+    "static/js/2.fe92264b.chunk.js.LICENSE.txt": "https://chandan-cv.github.io/csb-um3vg/static/js/2.fe92264b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47ab2def.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.fe92264b.chunk.js",
+    "static/css/main.3de828b4.chunk.css",
+    "static/js/main.2780c402.chunk.js"
+  ]
+}
